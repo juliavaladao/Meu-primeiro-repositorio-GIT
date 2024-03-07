@@ -22,3 +22,5 @@
 
 ## Enviar (ou em tradução literal, empurre) os commits de sua branch e repositório Git local para o seu repositório remoto.
 -> git push
+
+- [x] Atividade completa
